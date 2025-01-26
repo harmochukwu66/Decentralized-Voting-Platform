@@ -10,6 +10,11 @@ path = 'contracts/election-management.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.voter-achievement-nft]
+path = 'contracts/voter-achievement-nft.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.voting]
 path = 'contracts/voting.clar'
 clarity_version = 2
